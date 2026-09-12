@@ -1,0 +1,98 @@
+# Job title reference, parsed from "Job Titles to Target - updated" doc.
+# Each bucket maps to a "function" used in campaign configs (Data / Product / Marketing).
+# Matching is fuzzy substring/token match, not exact string match — real job titles
+# in lead files rarely match these verbatim (e.g. "SVP/AVP/VP Data & Analytics" is
+# shorthand for several real titles).
+
+Data:
+  - Chief Data Officer
+  - CDO
+  - Chief Analytics Officer
+  - CAO
+  - SVP Data & Analytics
+  - AVP Data & Analytics
+  - VP Data & Analytics
+  - Sr Director of Data & Insight
+  - Sr Director of Data Strategy
+  - Sr Director of Analytics
+  - Head of Data Analytics
+  - Head of Data Strategy
+  - Analytics Director
+  - Director of Data & Insight
+  - Director of Data Strategy
+  - Director of Analytics
+  - Chief Technology Officer
+  - CTO
+  - Chief Data Engineer
+  - VP Engineering
+  - VP Infrastructure
+  - Head of Infrastructure
+  - VP of Data Platform
+  - SVP Predictive Analytics
+  - VP Predictive Analytics
+  - Head of Data Engineering
+  - Director of Data Science
+  - Head of Data Platform
+  - Director of Data Engineering
+  - SVP Data Engineering
+  - AVP Data Engineering
+  - VP Data Engineering
+  - SVP Data Architecture
+  - AVP Data Architecture
+  - VP Data Architecture
+  - Sr Director Data Science and Engineering
+  - SVP of Engineering & Data
+  - Director Data Architecture
+  - Director Data Engineer
+  - Director Data Science
+
+Product:
+  - Chief Product Officer
+  - Senior Director of Product Management
+  - Director of Product Management
+  - Vice President of Products
+  - SVP Product Management
+  - AVP Product Management
+  - VP Product Management
+  - Director Product Management
+  - Director Technical Product Management
+  - Head of Growth
+  - Director of Growth
+  - Director Growth Product Management
+  - Director Mobile Product
+  - Director Product Analytics
+  - Director User Adoption
+  - Director User Retention
+  - Director User Engagement
+  - VP Digital Products
+  - VP Growth
+  - Director Web Product
+
+Marketing:
+  - Chief Marketing Officer
+  - VP Digital Marketing
+  - Director of Web Strategy
+  - VP Growth Marketing
+  - VP of UX/CX
+  - Head of Digital
+  - Director of Web Marketing
+  - Director of Mobile Marketing
+  - Head of Growth Marketing
+  - Director Lifecycle Marketing
+  - UX/CX Manager
+  - Digital Experience Manager
+  - Mobile Marketing Manager
+  - Digital Marketing Manager
+  - VP of Demand Generation
+  - Director of Performance Marketing
+  - Acquisition Marketing Manager
+  - VP Ecommerce
+  - Director of Martech
+  - Director Marketing Analytics
+  - VP Marketing Analytics
+  - Director Digital Analytics
+  - VP Digital Analytics
+  - VP Digital and Online Analytics
+  - Head of Site Analytics
+  - Head of Growth Analytics
+  - Growth Analytics Manager

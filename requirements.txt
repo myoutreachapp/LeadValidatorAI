@@ -1,0 +1,11 @@
+streamlit
+streamlit-authenticator
+pandas
+phonenumbers
+pyyaml
+openpyxl
+rapidfuzz
+pycountry
+requests
+python-docx
+xlrd
